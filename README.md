@@ -6,6 +6,7 @@ Hexagonal architecture , domain-driven architecture(DDD), or model-view architec
 
 - 🌱 I’m currently learning about GRPC and RPC(remote procedure call)-am still mastering the technology
 - 🌱 I’m currently learning about multithreading with golang
+
 Echo framework, Gorm, Expressjs are just a few of the frameworks I utilized while coding
 
 As front end web developer I love working with Vuejs and its supporting technologies such as Vuex, Vuetify, Vue router, Nuxtjs, tailwind CSS- e-commerce client
