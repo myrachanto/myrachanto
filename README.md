@@ -6,6 +6,7 @@ Hexagonal architecture , domain-driven architecture(DDD), or model-view architec
 
 - 🌱 I’m currently learning about GRPC and RPC(remote procedure call)-am still mastering the technology
 - 🌱 I’m currently learning about multithreading with golang
+- 🌱 I am also learning Blockchain with golang
 
 Echo framework, Gorm, Expressjs are just a few of the frameworks I utilized while coding
 
