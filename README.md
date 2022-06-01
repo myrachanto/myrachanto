@@ -1,7 +1,8 @@
 ### Hi there 👋, Myrachanto here
 
-I am a full-stack web developer with more than two years of experience in Golang, but overall I have being coding since 2017
+I am a full-stack web developer(golang and vuejs) with more than two years of experience in Golang, but overall I have being coding since 2017
 Being a backend developer is my forte especially working with Golang to build both monoliths and micro service apps
+In the recent past I have added DevOps to my skillset, this implying that i can now work with, docker, docker-compose, kubernetes, terraform, ansible, AWS among other DevOps tools
 Hexagonal architecture , domain-driven architecture(DDD), or model-view architecture are some of the architectures I work with.
 
 - 🌱 I’m currently learning about GRPC and RPC(remote procedure call)-am still mastering the technology
