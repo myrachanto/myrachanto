@@ -8,7 +8,7 @@ In the recent past I have added DevOps to my skillset, this implying that i can 
 Hexagonal architecture , domain-driven architecture(DDD), or model-view architecture are some of the architectures I work with.
 
 - 🌱 I’m currently learning about GRPC and RPC(remote procedure call)-am still mastering the technology
-- 🌱 I’m currently learning about multithreading with golang
+- 🌱 I’m currently mastering about multithreading with golang
 - 🌱 I am also learning Blockchain with golang
 
 Echo framework, Gorm, Expressjs are just a few of the frameworks I utilized while coding
