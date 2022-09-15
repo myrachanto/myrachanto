@@ -1,6 +1,6 @@
 ### Hi there 👋, Myrachanto here
 
-I am a full-stack web developer(golang and vuejs) with more than two years of experience in Golang, but overall I have being coding since 2017
+I am a full-stack web developer(golang and vuejs) with more than three years of experience in Golang, but overall I have being coding since 2017
 Being a backend developer is my forte especially working with Golang to build both monoliths and micro service apps.
 
 In the recent past I have added DevOps to my skillset, this implying that i can now work with, docker, docker-compose, kubernetes, terraform, ansible, AWS among other DevOps tools.
