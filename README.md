@@ -25,7 +25,8 @@ The e-commerce website built with Nuxtjs and Tailwind CSS is hosted at
 I utilize both SQL (MySQL) and NoSQL(MongoDB) databases.
 I have built several custom e-commerce shopping websites with Nuxtjs, and tailwind.
 
-- 🔭 I’m currently working on bookkeeping application (Golang and Vuejs) its website is at https://chantomsq.com
+- 🔭 I’m currently working on bookkeeping application (Golang and Vuejs) its website is at https://chantosq.netlify.app
+
 
 Other technologies under my belt include
 
