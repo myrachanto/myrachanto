@@ -52,4 +52,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-https://github.com/myrachanto/small-vue/blob/master/public/dashboard.png
+
+![alt text]([http://url/to/img.png](https://github.com/myrachanto/small-vue/blob/master/public/dashboard.png))
