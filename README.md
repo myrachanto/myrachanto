@@ -53,4 +53,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="[your_relative_path_here](http://url/to/img.png](https://github.com/myrachanto/small-vue/blob/master/public/dashboard.png)" width="350" title="dashboard">
+<img src="[your_relative_path_here](http://url/to/img.png](https://github.com/myrachanto/small-vue/blob/master/public/dashboard.png)" width="500" title="dashboard">
