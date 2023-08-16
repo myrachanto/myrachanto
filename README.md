@@ -10,7 +10,7 @@ DevOps:
 Other Technologies:
 - Familiarity with MySQL, gRPC, Blockchain, and MongoDB.
 
-Notable projects include [https://nillavee.co.](https://nillavee.co.ke/)
+Notable projects include [https://nillavee.co.ke](https://nillavee.co.ke/)
 
 [![My Skills](https://skills.thijs.gg/icons?i=go,qwik,nodejs,react,solidjs,mysql,mondodb,docker,kubernetes,&theme=light)](https://skills.thijs.gg)
 <!--
