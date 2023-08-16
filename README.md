@@ -1,6 +1,6 @@
 ### Hi there 👋, Myrachanto here
 
-I am a highly experienced Full Stack Web Developer with over five years of experience, specializing in Golang for more than three years. My passion lies in developing applications using a hybrid approach, combining Domain Driven Design (DDD) and Hexagonal Architecture.
+I am an experienced Full Stack Web Developer with over five years of experience, specializing in Golang for more than three years. My passion lies in developing applications using a hybrid approach, combining Domain Driven Design (DDD) and Hexagonal Architecture.
 Back-end Development:
 - More than three years of expertise in Golang for back-end development.
 Front-end Development:
@@ -9,6 +9,8 @@ DevOps:
 - Recently added DevOps skills to my skillset, including Docker, Kubernetes, AWS, Terraform, Ansible, Prometheus, Linux OS, and GitHub Actions.
 Other Technologies:
 - Familiarity with MySQL, gRPC, Blockchain, and MongoDB.
+
+Notable projects include [https://nillavee.co.](https://nillavee.co.ke/)
 
 [![My Skills](https://skills.thijs.gg/icons?i=go,qwik,nodejs,react,solidjs,mysql,mondodb,docker,kubernetes,&theme=light)](https://skills.thijs.gg)
 <!--
