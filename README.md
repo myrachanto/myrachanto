@@ -12,7 +12,7 @@ Other Technologies:
 
 Notable projects include [https://nillavee.co.ke](https://nillavee.co.ke/)
 
-[![My Skills](https://skills.thijs.gg/icons?i=go,grpc,qwikjs,nodejs,react,solidjs,postgres,mysql,mongodb,docker,kubernetes,&theme=light)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=go,qwikjs,nodejs,react,solidjs,postgres,mysql,mongodb,docker,kubernetes,AWS,terrafor,&theme=light)](https://skills.thijs.gg)
 <!--
 **myrachanto/myrachanto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
