@@ -8,11 +8,11 @@ Front-end Development:
 DevOps:
 - Recently added DevOps skills to my skillset, including Docker, Kubernetes, AWS, Terraform, Ansible, Prometheus, Linux OS, and GitHub Actions.
 Other Technologies:
-- Familiarity with MySQL, gRPC, Blockchain, and MongoDB.
+- Familiarity with Postgres, MySQL, gRPC, Blockchain, and MongoDB.
 
 Notable projects include [https://nillavee.co.ke](https://nillavee.co.ke/)
 
-[![My Skills](https://skills.thijs.gg/icons?i=go,qwikjs,nodejs,react,solidjs,mysql,mongodb,docker,kubernetes,&theme=light)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=go,qwikjs,nodejs,react,solidjs,postgres,mysq,mongodb,docker,kubernetes,&theme=light)](https://skills.thijs.gg)
 <!--
 **myrachanto/myrachanto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
