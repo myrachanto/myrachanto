@@ -12,14 +12,14 @@ I'm a Go (Golang) fanatic with over 5 years of hands-on experience building high
    - Recently added DevOps skills to my skillset, including Docker, Kubernetes, AWS, Terraform, Ansible, Prometheus, Linux OS, and GitHub Actions.
   
 - [x] Other Technologies:
-  - Familiarity with Postgres, MySQL, gRPC, Blockchain, and MongoDB.
+  - Familiarity with Postgres, MySQL, gRPC, and MongoDB.
 
 Notable projects include [https://nillavee.co.ke](https://nillavee.co.ke/)
 
 and my website [chantosweb developers](https://www.chantosweb.com/)
-
-[![My Skills](https://skills.thijs.gg/icons?i=go,qwikjs,nodejs,react,solidjs,postgres,mysql,mongodb,docker,kubernetes,AWS,terrafor,&theme=light)](https://skills.thijs.gg)
 <!--
+[![My Skills](https://skills.thijs.gg/icons?i=go,qwikjs,nodejs,react,solidjs,postgres,mysql,mongodb,docker,kubernetes,AWS,terrafor,&theme=light)](https://skills.thijs.gg)
+
 **myrachanto/myrachanto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
