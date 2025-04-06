@@ -1,6 +1,6 @@
 ### Hi there 👋, Myrachanto here
 
-I am an experienced Full Stack Web Developer with over 7 years of experience, specializing in Golang for more than 5 years. My passion lies in developing applications using a hybrid approach, combining Domain Driven Design (DDD) and Hexagonal Architecture.
+I'm a Go (Golang) fanatic with over 5 years of hands-on experience building high-performance, scalable applications. As a Full Stack Web Developer with 7+ years in the field, I thrive on crafting clean, efficient backend systems and robust web solutions using Go.
 
 - [x]  Back-end Development:
   - More than 5 years of expertise in Golang for back-end development.
